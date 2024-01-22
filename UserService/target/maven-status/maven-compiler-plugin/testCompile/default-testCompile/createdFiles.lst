@@ -1,0 +1,3 @@
+com\eventApp\userservice\test\service\UserServiceTest.class
+com\eventApp\userservice\test\contoller\UserControllerTest.class
+com\eventApp\userservice\test\UserServiceApplicationTest.class

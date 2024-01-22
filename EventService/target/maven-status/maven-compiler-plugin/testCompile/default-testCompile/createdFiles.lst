@@ -1,0 +1,3 @@
+com\eventapp\eventservice\test\EventServiceApplicationTest.class
+com\eventapp\eventservice\test\controller\EventControllerTest.class
+com\eventapp\eventservice\test\service\EventServiceTest.class

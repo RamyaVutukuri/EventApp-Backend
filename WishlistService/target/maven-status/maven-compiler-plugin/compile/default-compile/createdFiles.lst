@@ -1,0 +1,16 @@
+com\eventapp\wishlistservice\filter\JwtWishlistFilter.class
+com\eventapp\wishlistservice\config\FilterConfig.class
+com\eventapp\wishlistservice\repository\PerformerRepository.class
+com\eventapp\wishlistservice\exception\EventAlreadyExistsException.class
+com\eventapp\wishlistservice\model\Venue.class
+com\eventapp\wishlistservice\exception\GlobalExceptionHandler.class
+com\eventapp\wishlistservice\model\Event.class
+com\eventapp\wishlistservice\model\Performer.class
+com\eventapp\wishlistservice\repository\VenueRepository.class
+com\eventapp\wishlistservice\service\WishlistService.class
+com\eventapp\wishlistservice\repository\EventRepository.class
+com\eventapp\wishlistservice\WishlistServiceApplication.class
+com\eventapp\wishlistservice\exception\EventNotFoundException.class
+com\eventapp\wishlistservice\model\Events.class
+com\eventapp\wishlistservice\service\WishlistServiceImpl.class
+com\eventapp\wishlistservice\controller\WishlistController.class

@@ -1,0 +1,3 @@
+com\eventapp\wishlistservice\test\controller\WishlistControllerTest.class
+com\eventapp\wishlistservice\test\WishlistServiceApplicationTest.class
+com\eventapp\wishlistservice\test\service\WishlistServiceImplTest.class

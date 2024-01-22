@@ -1,0 +1,8 @@
+com\eventapp\eventservice\model\Performer.class
+com\eventapp\eventservice\model\Event.class
+com\eventapp\eventservice\model\Events.class
+com\eventapp\eventservice\model\Venue.class
+com\eventapp\eventservice\EventServiceApplication.class
+com\eventapp\eventservice\config\RestTemplateConfig.class
+com\eventapp\eventservice\controller\EventController.class
+com\eventapp\eventservice\service\EventService.class

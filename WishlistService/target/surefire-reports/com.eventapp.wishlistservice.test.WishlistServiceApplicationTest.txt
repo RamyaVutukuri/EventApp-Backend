@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.eventapp.wishlistservice.test.WishlistServiceApplicationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.93 s -- in com.eventapp.wishlistservice.test.WishlistServiceApplicationTest

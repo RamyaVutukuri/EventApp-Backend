@@ -1,0 +1,2 @@
+com\eventapp\authenticationservice\test\controller\AuthControllerTest.class
+com\eventapp\authenticationservice\test\config\JwtTokenGeneratorTest.class

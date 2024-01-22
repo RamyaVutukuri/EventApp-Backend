@@ -1,0 +1,10 @@
+com\eventapp\authenticationservice\config\JwtTokenGenerator.class
+com\eventapp\authenticationservice\exception\UserNotFoundException.class
+com\eventapp\authenticationservice\service\AuthService.class
+com\eventapp\authenticationservice\kafkaconsumer\KafkaConsumer.class
+com\eventapp\authenticationservice\model\UserInfo.class
+com\eventapp\authenticationservice\service\AuthServiceImpl.class
+com\eventapp\authenticationservice\AuthenticationServiceApplication.class
+com\eventapp\authenticationservice\contoller\AuthController.class
+com\eventapp\authenticationservice\exception\GlobalExceptionHandler.class
+com\eventapp\authenticationservice\repository\UserRepo.class

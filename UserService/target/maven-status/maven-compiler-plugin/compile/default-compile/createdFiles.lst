@@ -1,0 +1,10 @@
+com\eventApp\UserService\exception\UserNotFoundException.class
+com\eventApp\UserService\services\UserService.class
+com\eventApp\UserService\exception\GlobalExceptionHandler.class
+com\eventApp\UserService\exception\UserAlreadyExistsException.class
+com\eventApp\UserService\controller\UserController.class
+com\eventApp\UserService\model\User.class
+com\eventApp\UserService\UserServiceApplication.class
+com\eventApp\UserService\kafkaproducer\KafkaProducer.class
+com\eventApp\UserService\repository\UserRepository.class
+com\eventApp\UserService\services\UserServiceImpl.class
